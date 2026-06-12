@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <div align="center">
 
@@ -18,30 +18,30 @@
 
 ```javascript
 const preeti = {
-  name:       "Preeti Shukla",
-  role:       "Full-Stack developer (React & JavaScript)",
-  education:  "B.Tech CSE — Final Year 🎓",
-  location:   "Mirzapur, Uttar Pradesh, India 🇮🇳",
-  skills:     ["HTML", "CSS", "JavaScript", "React",API integration, Database],
+  name:         "Preeti Shukla",
+  role:         "Full-Stack Developer (React & JavaScript)",
+  education:    "B.Tech CSE — Final Year 🎓",
+  location:     "Mirzapur, Uttar Pradesh, India 🇮🇳",
+  skills:       ["HTML", "CSS", "JavaScript", "React",API intergation,Database ],
   currentFocus: "Building real-world React projects for my portfolio",
-  lookingFor: "Frontend Internship 2025",
-  email:      "shuklapreeti438@gmail.com",
-  funFact:    "I debug with console.log and I am proud of it 😄"
+  lookingFor:   "Full-stack Internship 2025",
+  email:        "shuklapreeti438@gmail.com",
+  funFact:      "I debug with console.log and I am proud of it 😄"
 };
 ` ` `
 
-- 🎓 **Final year B.Tech CSE student** actively building projects  
-- ⚛️ Passionate about **React** and creating clean, responsive UIs  
-- 🌱 Currently levelling up in **React Hooks, APIs & Node.js**  
-- 🤝 Open to **Frontend Internships** — available immediately  
-- 🏆 **Hacktoberfest 2024** contributor — 5+ open source repos  
+- 🎓 **Final year B.Tech CSE student** actively building projects
+- ⚛️ Passionate about **React** and creating clean, responsive UIs
+- 🌱 Currently levelling up in **React Hooks, APIs & Node.js**
+- 🤝 Open to **Full-stack Internships** — available immediately
+- 🏆 **Hacktoberfest 2024** contributor — 5+ open source repos
 - 📬 **shuklapreeti438@gmail.com**
 
 ---
 
 ## 🛠️ Tech Stack
 
-
+<div align="center">
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -50,29 +50,29 @@ const preeti = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
+<div align="center">
 
-
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Preeti529&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=22c55e&icon_color=22c55e"/>
 &nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Preeti529&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22c55e"/>
 
+<br/>
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Preeti529&theme=tokyonight&hide_border=true&background=0d1117&ring=22c55e&fire=ff6b35&currStreakLabel=22c55e" width="55%"/>
 
-
-
-
-
+</div>
 
 ---
 
 ## 🤝 Let's Connect
 
-
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/preeti-shukla-6ba43a2aa/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shuklapreeti438@gmail.com)
@@ -81,9 +81,9 @@ const preeti = {
 ### 💼 Actively seeking Frontend Internship opportunities!
 ### 📍 Mirzapur, UP, India · 📬 shuklapreeti438@gmail.com
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
-
-
+</div>
 ```
 
----
+> ⚠️ **Important:** The ` ``` ` after the javascript block — make sure it has **no spaces** between the three backticks when you paste. Claude's chat adds spaces to prevent rendering, but in GitHub's editor it must be exactly ` ``` ` with no gaps.
