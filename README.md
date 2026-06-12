@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Preeti%20Shukla&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Frontend%20Developer%20%7C%20React%20%26%20JavaScript%20%7C%20Final%20Year%20B.Tech%20%7C%20Open%20to%20Internships&descAlignY=58&descSize=15" width="100%"/> -->
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=22C55E&center=true&vCenter=true&width=650&lines=Building+beautiful+UIs+with+React+%F0%9F%92%9A;Turning+ideas+into+real+web+experiences+%F0%9F%9A%80;Final+year+dev%2C+ready+to+make+an+impact+%F0%9F%8C%9F;Open+to+Internships+%26+Fresher+Roles+%F0%9F%99%8C)](https://git.io/typing-svg)
 
@@ -84,6 +84,3 @@ const preeti = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
-```
-
-> ⚠️ **Important:** The ` ``` ` after the javascript block — make sure it has **no spaces** between the three backticks when you paste. Claude's chat adds spaces to prevent rendering, but in GitHub's editor it must be exactly ` ``` ` with no gaps.
