@@ -28,7 +28,7 @@ const preeti = {
   email:        "shuklapreeti438@gmail.com",
   funFact:      "I debug with console.log and I am proud of it 😄"
 };
-` ` `
+```
 
 - 🎓 **Final year B.Tech CSE student** actively building projects
 - ⚛️ Passionate about **React** and creating clean, responsive UIs
